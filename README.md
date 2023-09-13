@@ -91,5 +91,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
-Feel free to modify the content and structure to better suit your project's needs. You can also add more specific details or instructions if required.
 ```
