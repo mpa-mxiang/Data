@@ -1,6 +1,4 @@
-Certainly! Here's a template for a README.md file for your GitHub repository at MakeItMVP for Launch Academy, which is intended for new junior developers to clone and use as a starting point for their assigned projects. Since you mentioned it's going to use React and Sass, I'll include sections relevant to those technologies:
 
-````markdown
 # MakeItMVP Launch Academy Starter Repository
 
 Welcome to the MakeItMVP Launch Academy Starter Repository! This repository is designed to provide new junior developers with a structured starting point for their assigned projects. It's built using React and Sass to help you get up and running quickly.
